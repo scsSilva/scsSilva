@@ -1,6 +1,6 @@
 <div>
   <p>Hi, my name is Sallys Carlos!</p>
-  <p>I am a programming enthusiast. I am currently a Computer Science student and Front-End developer.</p>
+  <p>I am a programming enthusiast. I am currently a Computer Science student and Full-Stack developer.</p>
 </div>
 
 <br />
